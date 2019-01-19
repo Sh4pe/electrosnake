@@ -35,5 +35,5 @@ conda install flask
 Run the app.
 
 ```
-doit start
+doit start:app
 ```

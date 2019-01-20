@@ -37,3 +37,9 @@ Run the app.
 ```
 doit start:app
 ```
+
+Run only the flask backend, in development mode.
+
+```
+doit start:flask
+```

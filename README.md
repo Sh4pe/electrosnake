@@ -23,6 +23,8 @@ that should be answered include:
 
 # Prerequisites and setup
 
+First of all, you need to install `npm`. See [Get npm!](https://www.npmjs.com/get-npm) for help.
+
 Install required Python packages using `conda`.
 
 ```

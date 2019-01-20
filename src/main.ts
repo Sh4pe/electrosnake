@@ -23,7 +23,7 @@ function execWithEnv(key: string, value: string) : (command: string) => ChildPro
     return proc
   }
 }
-let runFlask = execWithEnv('FLASK_APP', 'src/start_server.py')
+let runFlask = execWithEnv('FLASK_APP', 'src/electrosnake/backend.py')
 
 /**
  * Enum indicating the result of checking server for readiness.
